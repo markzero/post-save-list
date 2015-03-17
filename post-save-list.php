@@ -1,13 +1,13 @@
 <?php
 /**
- * Plugin Name:		Post Save and List
- * Plugin URI:		https://github.com/markzero/post-save-list
- * Description:		This plugin allows you to add Save button next to Publish button. When you click the Save button you'll get redirected to Posts list page.
- * Version:			  1.0
- * Author:			  Marko Jakic
- * Author URI:		http://markojakic.net/
- * License:			  GPL-2.0+
- * License URI:		http://www.gnu.org/licenses/gpl-2.0.txt
+ * Plugin Name: Post Save and List
+ * Plugin URI:  https://github.com/markzero/post-save-list
+ * Description: This plugin allows you to add Save button next to Publish button. When you click the Save button you'll get redirected to Posts list page.
+ * Version:     1.0
+ * Author:      Marko Jakic
+ * Author URI:  http://markojakic.net/
+ * License:     GPL-2.0+
+ * License URI: http://www.gnu.org/licenses/gpl-2.0.txt
  */
 
 if (!defined('WPINC')) {
